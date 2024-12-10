@@ -1,4 +1,4 @@
-## 🌤️ Weather App
+## 🌤️ [Weather App](https://github.com/sumeyycakir/Weather-App/issues/1#issue-2729825543)
 This project is a simple weather application built with React.js. Users can input a city name in the search box to get real-time weather data for that city. The app fetches weather data from the OpenWeatherMap API and displays basic information like temperature, humidity, wind speed, and weather conditions.
 
 ## ✨ Features
